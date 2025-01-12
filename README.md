@@ -9,10 +9,6 @@
     <p><a3>18:45開場</a3></p>    
     <p><a4>19:00開演</a4></p>
     <p><a5>21:00閉演予定</a5></p>
-
-    <p><a6><a href="https://vitus.main.jp/accessV-1map.htm">会場 ハイジアv-1</a6></p>
-
-        <p><a href="https://tiget.net/events/372194">チケットのURLはこちら</a></p>
     
     <a7>出演者</a7>
     <br>
@@ -27,7 +23,8 @@
     <p><h8></h8>しがり</h8></p>
     <p><h9>宮澤デスコアラさんのユニット</h9></p>
     <p><h10>他</h10></p>
-     
+    <p><a6><a href="https://vitus.main.jp/accessV-1map.htm">会場 ハイジアv-1</a6></p>
+    <p><a href="https://tiget.net/events/372194">チケットのURLはこちら</a></p> 
     <h11>是非お越しください</h11>    
     
 </body>
