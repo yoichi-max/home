@@ -1,7 +1,9 @@
-# home
 <!DOCTYPE html>
+<hyml lsng="ja">
+<head>    
         <meta charset="UTF=8">
         <title>お笑いライブ「国数豆」</title>
+</head>
 <body>
     <h1>ネタライブ「国数豆」</h1>
     <p><a1>時間</a1></p>
@@ -34,3 +36,5 @@
         
     
 </html>
+        
+            
